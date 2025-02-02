@@ -10,7 +10,8 @@
   <HighResolutionIconUrl DefaultValue="https://alzo-archi.github.io/alzoffice/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://alzo.archi/"/>
   <AppDomains>
-    <AppDomain>https://alzo.archi</AppDomain>
+    <AppDomain>https://alzo.archi/</AppDomain>
+    <AppDomain>https://alzo-archi.github.io/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Presentation"/>
